@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Rahul Sharma",
+        "title": "Building India's FinTech Future",
+        "description": "How I scaled my payment gateway startup to 1M users",
+        "thumbnail": "images/founders/rahul.jpg",
+        "video": "videos/rahul-interview.mp4"
+    },
+    {
+        "name": "Priya Patel",
+        "description": "From dorm room to 50 employees - My edtech journey",
+        "title": "EdTech Disruptor",
+        "thumbnail": "images/founders/priya.jpg",
+        "video": "videos/priya-interview.mp4"
+    }
+]

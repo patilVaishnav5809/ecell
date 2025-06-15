@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Startup Bootcamp",
+        "date": "15 Dec 2023",
+        "description": "3-day intensive workshop on building your startup from scratch",
+        "image": "images/events/bootcamp.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Investor Pitch Day",
+        "date": "20 Jan 2024",
+        "description": "Pitch your startup to angel investors and VCs",
+        "image": "images/events/pitch-day.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Hackathon 2024",
+        "date": "10 Feb 2024",
+        "description": "36-hour coding marathon to build innovative solutions",
+        "image": "images/events/hackathon.jpg",
+        "link": "#"
+    }
+]
